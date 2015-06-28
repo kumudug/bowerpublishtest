@@ -1,0 +1,20 @@
+{
+  "name": "BowerPublishSample",
+  "version": "0.0.1",
+  "authors": [
+    "kumudu"
+  ],
+  "description": "Test bower package publish",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
